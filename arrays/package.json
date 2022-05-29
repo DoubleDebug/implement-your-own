@@ -1,0 +1,14 @@
+{
+    "name": "arrays",
+    "version": "1.0.0",
+    "description": "Implementing existing Javascript array functions",
+    "main": "index.js",
+    "scripts": {
+        "test": "jest --watchAll --noStackTrace"
+    },
+    "author": "DoubleDebug",
+    "license": "ISC",
+    "devDependencies": {
+        "jest": "^28.1.0"
+    }
+}
